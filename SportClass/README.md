@@ -13,12 +13,11 @@ Formulario React → fetch (POST) → API Express → archivo JSON → fetch (GE
 
 | Integrante | Responsabilidad principal |
 |---|---|
-| _Integrante 1_ | Backend: Express, rutas GET/POST, almacenamiento JSON |
-| _Integrante 2_ | Frontend: rutas, menú, página de inicio, estilos |
-| _Integrante 3_ | Frontend: formulario, validaciones, mensajes |
-| _Integrante 4_ | Integración con la API, lista, pruebas, README e informe |
+| _Kevin Barboza_ | Backend: Express, rutas GET/POST, almacenamiento JSON |
+| _Cristhian Gonzalez_ | Frontend: rutas, menú, página de inicio, estilos |
+| _Christopher Aguiño_ | Frontend: formulario, validaciones, mensajes |
+| _Erick Minda_ | Integración con la API, lista, pruebas, README e informe |
 
-> Reemplazar con los nombres reales. Todos los integrantes comprenden el proyecto completo.
 
 ## Requisitos
 
