@@ -1,0 +1,56 @@
+[
+  {
+    "id": "21da1ac1-bcb4-4d71-a432-3295ef08bd56",
+    "nombre": "manuel",
+    "email": "manuel@gmail.com",
+    "clase": "Fútbol",
+    "categoria": "Intermedio",
+    "fecha": "2026-10-14",
+    "descripcion": "horario vespertino",
+    "creadoEn": "2026-10-14T00:58:02.616Z"
+  },
+  {
+    "id": "4ef40d26-cb12-4fba-b3b8-584e76cd639d",
+    "nombre": "ana jimenez",
+    "email": "anajimenez23@gmail.com",
+    "clase": "Yoga",
+    "categoria": "Avanzado",
+    "fecha": "2026-10-15",
+    "descripcion": "horario matutino",
+    "creadoEn": "2026-10-14T01:04:33.667Z"
+  },
+  {
+    "id": "72234085-16d6-41f9-9592-98fc4faf22b3",
+    "nombre": "cristhian gonzalez sanchez",
+    "email": "cristhian@gmail.com",
+    "clase": "Natación",
+    "categoria": "Avanzado",
+    "fecha": "2026-10-16",
+    "descripcion": "prefiero horario matutino",
+    "creadoEn": "2026-10-14T01:15:20.567Z"
+  },
+  {
+    "id": "ac00463c-a32f-4c28-b4c0-a808421a21ff",
+    "nombre": "juan martinez",
+    "email": "juanmartinez47@gmail.com",
+    "clase": "Yoga",
+    "categoria": "Intermedio",
+    "fecha": "2026-10-17",
+    "descripcion": "horario vespetino",
+    "creadoEn": "2026-10-14T02:41:33.079Z",
+    "horario": "Mañana",
+    "hora": "09:00"
+  },
+  {
+    "id": "29357858-6493-41a6-aa9c-350015d2cded",
+    "nombre": "kevin barboza",
+    "email": "kevinbarboza76@gmail.com",
+    "clase": "Yoga",
+    "categoria": "Intermedio",
+    "fecha": "2026-10-17",
+    "horario": "Mañana",
+    "hora": "09:00",
+    "descripcion": "horario matutino",
+    "creadoEn": "2026-10-14T02:52:05.209Z"
+  }
+]
